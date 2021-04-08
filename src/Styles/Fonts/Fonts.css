@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Lato";
+  font-display: fallback;
+  src: local("Lato"), url("./Lato/Lato-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "RobotoSlab";
+  font-display: fallback;
+  src: url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap")
+    format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "AlphaSlab";
+  font-display: fallback;
+  src: local("AlphaSlab"),
+    url("./AlphaSlab/AlfaSlabOne-Regular.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
